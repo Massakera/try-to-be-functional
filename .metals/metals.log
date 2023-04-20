@@ -1,0 +1,125 @@
+2023.04.20 11:21:09 INFO  Started: Metals version 0.11.11 in workspace '/Users/enzom/Proj/func-learning' for client helix 23.03 (3cf03723).[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/enzom/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.20 11:21:10 INFO  time: initialize in 0.28s[0m
+2023.04.20 11:21:10 WARN  Build server is not auto-connectable.[0m
+2023.04.20 11:21:10 WARN  no build tool detected in workspace '/Users/enzom/Proj/func-learning'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.04.20 11:21:10 WARN  no build target for: /Users/enzom/Proj/func-learning/immutable-values/even_calculator.scala[0m
+2023.04.20 11:21:14 INFO  no build target found for /Users/enzom/Proj/func-learning/immutable-values/even_calculator.scala. Using presentation compiler with project's scala-library version: 3.2.2[0m
+2023.04.20 11:21:15 INFO  Selected port 5031[0m
+Apr 20, 2023 11:21:15 AM io.undertow.Undertow start
+INFO: starting server: Undertow - 2.2.20.Final
+Apr 20, 2023 11:21:15 AM org.xnio.Xnio <clinit>
+INFO: XNIO version 3.8.8.Final
+Apr 20, 2023 11:21:15 AM org.xnio.nio.NioXnio <clinit>
+INFO: XNIO NIO Implementation Version 3.8.8.Final
+Apr 20, 2023 11:21:15 AM org.jboss.threads.Version <clinit>
+INFO: JBoss Threads version 3.1.0.Final
+2023.04.20 11:21:15 INFO  Started Metals http server at http://127.0.0.1:5031[0m
+2023.04.20 11:21:34 INFO  Started: Metals version 0.11.11 in workspace '/Users/enzom/Proj/func-learning' for client helix 23.03 (3cf03723).[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/enzom/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.20 11:21:38 INFO  time: initialize in 4.22s[0m
+2023.04.20 11:21:38 WARN  Build server is not auto-connectable.[0m
+2023.04.20 11:21:38 WARN  no build tool detected in workspace '/Users/enzom/Proj/func-learning'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.04.20 11:21:38 WARN  no build target for: /Users/enzom/Proj/func-learning/pure-functions/TipCalculator.scala[0m
+2023.04.20 11:21:40 INFO  no build target found for /Users/enzom/Proj/func-learning/pure-functions/TipCalculator.scala. Using presentation compiler with project's scala-library version: 3.2.2[0m
+2023.04.20 11:21:43 INFO  Selected port 5032[0m
+Apr 20, 2023 11:21:43 AM io.undertow.Undertow start
+INFO: starting server: Undertow - 2.2.20.Final
+Apr 20, 2023 11:21:43 AM org.xnio.Xnio <clinit>
+INFO: XNIO version 3.8.8.Final
+Apr 20, 2023 11:21:43 AM org.xnio.nio.NioXnio <clinit>
+INFO: XNIO NIO Implementation Version 3.8.8.Final
+Apr 20, 2023 11:21:43 AM org.jboss.threads.Version <clinit>
+INFO: JBoss Threads version 3.1.0.Final
+2023.04.20 11:21:43 INFO  Started Metals http server at http://127.0.0.1:5032[0m
+2023.04.20 11:35:10 WARN  no build target for: /Users/enzom/Proj/func-learning/immutable-values/even_calculator.scala[0m
+2023.04.20 11:35:16 INFO  Shutting down server[0m
+2023.04.20 11:35:16 INFO  shutting down Metals[0m
+Apr 20, 2023 11:35:17 AM io.undertow.Undertow stop
+INFO: stopping server: Undertow - 2.2.20.Final
+2023.04.20 11:35:56 WARN  no build target for: /Users/enzom/Proj/func-learning/immutable-values/even_calculator.scala[0m
+2023.04.20 11:36:28 WARN  no build target for: /Users/enzom/Proj/func-learning/immutable-values/even_calculator.scala[0m
+2023.04.20 11:36:38 WARN  no build target for: /Users/enzom/Proj/func-learning/immutable-values/even_calculator.scala[0m
+2023.04.20 11:36:40 INFO  Shutting down server[0m
+2023.04.20 11:36:40 INFO  shutting down Metals[0m
+Apr 20, 2023 11:36:40 AM io.undertow.Undertow stop
+INFO: stopping server: Undertow - 2.2.20.Final
+2023.04.20 12:02:19 INFO  Started: Metals version 0.11.11 in workspace '/Users/enzom/Proj/func-learning' for client helix 23.03 (3cf03723).[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/enzom/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.20 12:02:19 INFO  time: initialize in 0.3s[0m
+2023.04.20 12:02:20 WARN  Build server is not auto-connectable.[0m
+2023.04.20 12:02:20 WARN  no build tool detected in workspace '/Users/enzom/Proj/func-learning'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.04.20 12:02:20 WARN  no build target for: /Users/enzom/Proj/func-learning/immutable-values/calculator.scala[0m
+2023.04.20 12:02:21 INFO  no build target found for /Users/enzom/Proj/func-learning/immutable-values/calculator.scala. Using presentation compiler with project's scala-library version: 3.2.2[0m
+2023.04.20 12:02:25 INFO  Selected port 5031[0m
+Apr 20, 2023 12:02:25 PM io.undertow.Undertow start
+INFO: starting server: Undertow - 2.2.20.Final
+Apr 20, 2023 12:02:26 PM org.xnio.Xnio <clinit>
+INFO: XNIO version 3.8.8.Final
+Apr 20, 2023 12:02:26 PM org.xnio.nio.NioXnio <clinit>
+INFO: XNIO NIO Implementation Version 3.8.8.Final
+Apr 20, 2023 12:02:26 PM org.jboss.threads.Version <clinit>
+INFO: JBoss Threads version 3.1.0.Final
+2023.04.20 12:02:25 INFO  Started Metals http server at http://127.0.0.1:5031[0m
+2023.04.20 12:06:32 WARN  no build target for: /Users/enzom/Proj/func-learning/immutable-values/calculator.scala[0m
+2023.04.20 12:06:47 INFO  Shutting down server[0m
+2023.04.20 12:06:47 INFO  shutting down Metals[0m
+Apr 20, 2023 12:06:47 PM io.undertow.Undertow stop
+INFO: stopping server: Undertow - 2.2.20.Final
+2023.04.20 13:44:07 INFO  Started: Metals version 0.11.11 in workspace '/Users/enzom/Proj/func-learning' for client helix 23.03 (3cf03723).[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/enzom/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.20 13:44:07 INFO  time: initialize in 0.32s[0m
+2023.04.20 13:44:07 WARN  Build server is not auto-connectable.[0m
+2023.04.20 13:44:07 WARN  no build tool detected in workspace '/Users/enzom/Proj/func-learning'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.04.20 13:44:07 WARN  no build target for: /Users/enzom/Proj/func-learning/immutable-values/tictactoe.scala[0m
+2023.04.20 13:44:09 INFO  no build target found for /Users/enzom/Proj/func-learning/immutable-values/tictactoe.scala. Using presentation compiler with project's scala-library version: 3.2.2[0m
+2023.04.20 13:44:11 WARN  no build target for: /Users/enzom/Proj/func-learning/immutable-values/tictactoe.scala[0m
+2023.04.20 13:44:11 INFO  Shutting down server[0m
+2023.04.20 13:44:11 INFO  shutting down Metals[0m
+2023.04.20 13:44:27 INFO  Started: Metals version 0.11.11 in workspace '/Users/enzom/Proj/func-learning' for client helix 23.03 (3cf03723).[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/enzom/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.04.20 13:44:30 INFO  time: initialize in 3.62s[0m
+2023.04.20 13:44:30 WARN  Build server is not auto-connectable.[0m
+2023.04.20 13:44:30 WARN  no build tool detected in workspace '/Users/enzom/Proj/func-learning'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.04.20 13:44:30 WARN  no build target for: /Users/enzom/Proj/func-learning/immutable-values/tictactoe.scala[0m
+2023.04.20 13:44:32 INFO  no build target found for /Users/enzom/Proj/func-learning/immutable-values/tictactoe.scala. Using presentation compiler with project's scala-library version: 3.2.2[0m
+2023.04.20 13:44:36 INFO  Selected port 5031[0m
+Apr 20, 2023 1:44:36 PM io.undertow.Undertow start
+INFO: starting server: Undertow - 2.2.20.Final
+Apr 20, 2023 1:44:36 PM org.xnio.Xnio <clinit>
+INFO: XNIO version 3.8.8.Final
+Apr 20, 2023 1:44:36 PM org.xnio.nio.NioXnio <clinit>
+INFO: XNIO NIO Implementation Version 3.8.8.Final
+Apr 20, 2023 1:44:36 PM org.jboss.threads.Version <clinit>
+INFO: JBoss Threads version 3.1.0.Final
+2023.04.20 13:44:36 INFO  Started Metals http server at http://127.0.0.1:5031[0m
+2023.04.20 13:49:24 INFO  Shutting down server[0m
+2023.04.20 13:49:24 INFO  shutting down Metals[0m
+Apr 20, 2023 1:49:24 PM io.undertow.Undertow stop
+INFO: stopping server: Undertow - 2.2.20.Final
+2023.04.20 13:49:24 
